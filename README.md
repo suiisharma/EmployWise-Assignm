@@ -1,9 +1,5 @@
 # EmployWise Assignment
 
-## Project Overview
-
-This project is an assignment for EmployWise. It demonstrates the implementation of a simple employee management system.
-
 ## Features
 
 - Update employee details
@@ -14,7 +10,7 @@ This project is an assignment for EmployWise. It demonstrates the implementation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/employwise_assignment.git
+    https://github.com/suiisharma/EmployWise-Assignment.git
     ```
 2. Navigate to the project directory:
     ```sh
