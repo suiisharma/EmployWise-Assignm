@@ -39,4 +39,4 @@
 
 ## Contact
 
-For any questions or feedback, please contact [your email](mailto:souravdalana@gmail.com).
+For any questions or feedback, please contact (mailto:souravdalana@gmail.com).
